@@ -1,0 +1,13 @@
+/* TEAM */
+
+Developer: sameer aka sam0hack
+Site: http://ilmtechnosolutions.com, https://github.com/codex8
+Twitter: @sam0hack
+Location: Noida, INDIA
+
+/* SITE */
+
+Last Update: 2016/03/12
+Standards: HTML5, CSS3
+Components: MelonJS, jQuery
+Software: Atom, Photoshop
